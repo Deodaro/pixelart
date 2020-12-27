@@ -11,3 +11,4 @@ for (let pixel of pixels) {
     };
   };
 };
+
